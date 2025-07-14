@@ -55,17 +55,4 @@ I'm a passionate learner aiming to build a strong career in **Software Developme
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saravanan10-11&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan10-11&layout=compact&theme=radical)
-
----
-
-### ℹ️ What Do These GitHub Stats Show?
-
-- `GitHub Stats Card`: Shows total commits, stars, and contributions to public repositories.
-- `Top Languages Card`: Shows which programming languages you use most based on your public repos.
-- These stats **highlight your consistency, tech stack, and involvement** — very useful for recruiters!
-
----
 
