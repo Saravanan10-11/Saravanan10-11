@@ -31,19 +31,32 @@
 
 ---
 
-### 📫 Let's Connect
+<div style="background-color: #1e1e2f; padding: 20px; border-radius: 10px; color: #f5f5f5;">
 
-<p align="center">
+<h3>📫 Let's Connect</h3>
+
+<p>
   <a href="https://www.linkedin.com/in/saravanan-s-8b7021259">
-    <img src="https://img.shields.io/badge/LinkedIn-Saravanan--s-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Saravanan10-11">
-    <img src="https://img.shields.io/badge/GitHub-Saravanan10--11-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/saravanan2003/">
-    <img src="https://img.shields.io/badge/LeetCode-saravanan2003-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://saravanan10-11.github.io/saravanan-website/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/LinkedIn--Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/Saravanan10-11">
+    <img src="https://img.shields.io/badge/GitHub--Saravanan10--11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://leetcode.com/u/saravanan2003/">
+    <img src="https://img.shields.io/badge/LeetCode--Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p>
+  <a href="https://saravanan10-11.github.io/saravanan-website/">
+    <img src="https://img.shields.io/badge/Portfolio--Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
