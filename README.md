@@ -33,10 +33,8 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-s-8b7021259)
+- LinkedIn: [https://www.linkedin.com/in/saravanan-s-8b7021259](https://www.linkedin.com/in/saravanan-s-8b7021259)
+- GitHub: [https://github.com/Saravanan10-11](https://github.com/Saravanan10-11)
+- LeetCode: [https://leetcode.com/u/saravanan2003/](https://leetcode.com/u/saravanan2003/)
+- Portfolio Website: [https://saravanan10-11.github.io/saravanan-website/](https://saravanan10-11.github.io/saravanan-website/)
 
-[![GitHub](https://img.shields.io/badge/GitHub--Saravanan10--11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saravanan10-11)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode--Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saravanan2003/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio--Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saravanan10-11.github.io/saravanan-website/)
